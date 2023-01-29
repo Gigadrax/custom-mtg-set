@@ -1,0 +1,28 @@
+{
+  //name of the card
+  "card-title": "Creature Template",
+
+  //mana cost of the card using the formatting of card conjurer EG {X}{4}{u}{bw}
+  "mana-cost": "{w}",
+
+  //your user name or title (optional)
+  "designer": "Gigadrax",
+
+  //like Legendary or Basic or Snow
+  "super-type": "", //EG: Creature, Artifact, Planeswalker etc.
+  "type":"Creature",
+
+  //like the creature type of a creature EG Human, Vampire, etc., Saga, Equipment, or the planeswalker that it is EG Jace, Karn
+  "sub-type":"Human",
+
+  //card rarity as follows C: Common, U: Uncommon, R: Rare, M: Mythic Rare, L: Land, P: Promo, S: Special, T: Token
+  "rarity":"C",
+
+  "rules-text":"Rules text goes here.",
+  "flavor-text":"Flavor text goes here.",
+  "power":1,
+  "toughness":1,
+
+  //Will likely be AI generated and we'll wanna say that here somehow
+  "artist":"Artist"
+}
