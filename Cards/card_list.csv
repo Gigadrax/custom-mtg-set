@@ -1,0 +1,346 @@
+name,types,Legendary,mana_cost,rarity
+Aerial Assault,['Sorcery'],0,{2}{W},Common
+"Ajani, Strength of the Pride",['Planeswalker'],0,{2}{W}{W},Mythic
+Ancestral Blade,['Artifact'],0,{1}{W},Uncommon
+Angel of Vitality,['Creature'],0,{2}{W},Uncommon
+Angelic Gift,['Enchantment'],0,{1}{W},Common
+Apostle of Purifying Light,['Creature'],0,{1}{W},Uncommon
+Battalion Foot Soldier,['Creature'],0,{2}{W},Common
+Bishop of Wings,['Creature'],0,{W}{W},Rare
+Brought Back,['Instant'],0,{W}{W},Rare
+Cavalier of Dawn,['Creature'],0,{2}{W}{W}{W},Mythic
+Dawning Angel,['Creature'],0,{4}{W},Common
+Daybreak Chaplain,['Creature'],0,{1}{W},Common
+Devout Decree,['Sorcery'],0,{1}{W},Uncommon
+Disenchant,['Instant'],0,{1}{W},Common
+Eternal Isolation,['Sorcery'],0,{1}{W},Uncommon
+Fencing Ace,['Creature'],0,{1}{W},Uncommon
+Gauntlets of Light,['Enchantment'],0,{2}{W},Uncommon
+Glaring Aegis,['Enchantment'],0,{W},Common
+Gods Willing,['Instant'],0,{W},Uncommon
+Griffin Protector,['Creature'],0,{3}{W},Common
+Griffin Sentinel,['Creature'],0,{2}{W},Common
+Hanged Executioner,['Creature'],0,{2}{W},Rare
+Herald of the Sun,['Creature'],0,{4}{W}{W},Uncommon
+Inspired Charge,['Instant'],0,{2}{W}{W},Common
+Inspiring Captain,['Creature'],0,{3}{W},Common
+Leyline of Sanctity,['Enchantment'],0,{2}{W}{W},Rare
+Loxodon Lifechanter,['Creature'],0,{5}{W},Rare
+Loyal Pegasus,['Creature'],0,{W},Uncommon
+Master Splicer,['Creature'],0,{3}{W},Uncommon
+Moment of Heroism,['Instant'],0,{1}{W},Common
+Moorland Inquisitor,['Creature'],0,{1}{W},Common
+Pacifism,['Enchantment'],0,{1}{W},Common
+Planar Cleansing,['Sorcery'],0,{3}{W}{W}{W},Rare
+Raise the Alarm,['Instant'],0,{1}{W},Common
+Rule of Law,['Enchantment'],0,{2}{W},Uncommon
+"Sephara, Sky's Blade",['Creature'],0,{4}{W}{W}{W},Rare
+Soulmender,['Creature'],0,{W},Common
+Squad Captain,['Creature'],0,{4}{W},Common
+Starfield Mystic,['Creature'],0,{1}{W},Rare
+Steadfast Sentry,['Creature'],0,{2}{W},Common
+Yoked Ox,['Creature'],0,{W},Common
+Aether Gust,['Instant'],0,{1}{U},Uncommon
+Agent of Treachery,['Creature'],0,{5}{U}{U},Rare
+Air Elemental,['Creature'],0,{3}{U}{U},Uncommon
+Anticipate,['Instant'],0,{1}{U},Common
+"Atemsis, All-Seeing",['Creature'],0,{3}{U}{U}{U},Rare
+Befuddle,['Instant'],0,{2}{U},Common
+Bone to Ash,['Instant'],0,{2}{U}{U},Common
+Boreal Elemental,['Creature'],0,{4}{U},Common
+Brineborn Cutthroat,['Creature'],0,{1}{U},Uncommon
+Captivating Gyre,['Sorcery'],0,{4}{U}{U},Uncommon
+Cavalier of Gales,['Creature'],0,{2}{U}{U}{U},Mythic
+Cerulean Drake,['Creature'],0,{1}{U},Uncommon
+Cloudkin Seer,['Creature'],0,{2}{U},Common
+Convolute,['Instant'],0,{2}{U},Common
+Drawn from Dreams,['Sorcery'],0,{2}{U}{U},Rare
+Dungeon Geists,['Creature'],0,{2}{U}{U},Rare
+Faerie Miscreant,['Creature'],0,{U},Common
+Flood of Tears,['Sorcery'],0,{4}{U}{U},Rare
+Fortress Crab,['Creature'],0,{3}{U},Common
+Frilled Sea Serpent,['Creature'],0,{4}{U}{U},Common
+Frost Lynx,['Creature'],0,{2}{U},Common
+Hard Cover,['Enchantment'],0,{U},Uncommon
+Leyline of Anticipation,['Enchantment'],0,{2}{U}{U},Rare
+Masterful Replication,['Instant'],0,{5}{U},Rare
+Metropolis Sprite,['Creature'],0,{1}{U},Common
+Moat Piranhas,['Creature'],0,{1}{U},Common
+"Mu Yanling, Sky Dancer",['Planeswalker'],0,{1}{U}{U},Mythic
+Negate,['Instant'],0,{1}{U},Common
+Octoprophet,['Creature'],0,{3}{U},Common
+Portal of Sanctuary,['Artifact'],0,{2}{U},Uncommon
+Renowned Weaponsmith,['Creature'],0,{1}{U},Uncommon
+Sage's Row Denizen,['Creature'],0,{2}{U},Common
+Scholar of the Ages,['Creature'],0,{5}{U}{U},Uncommon
+Sleep Paralysis,['Enchantment'],0,{3}{U},Common
+Spectral Sailor,['Creature'],0,{U},Uncommon
+Tale's End,['Instant'],0,{1}{U},Rare
+Unsummon,['Instant'],0,{U},Common
+Warden of Evos Isle,['Creature'],0,{2}{U},Uncommon
+Winged Words,['Sorcery'],0,{2}{U},Common
+Yarok's Wavecrasher,['Creature'],0,{3}{U},Uncommon
+Zephyr Charge,['Enchantment'],0,{1}{U},Common
+Agonizing Syphon,['Sorcery'],0,{3}{B},Common
+Audacious Thief,['Creature'],0,{2}{B},Common
+Barony Vampire,['Creature'],0,{2}{B},Common
+Bladebrand,['Instant'],0,{1}{B},Common
+Blightbeetle,['Creature'],0,{1}{B},Uncommon
+Blood Burglar,['Creature'],0,{1}{B},Common
+Blood for Bones,['Sorcery'],0,{3}{B},Uncommon
+Bloodsoaked Altar,['Artifact'],0,{4}{B}{B},Uncommon
+Bloodthirsty Aerialist,['Creature'],0,{1}{B}{B},Uncommon
+Bone Splinters,['Sorcery'],0,{B},Common
+Boneclad Necromancer,['Creature'],0,{3}{B}{B},Common
+Cavalier of Night,['Creature'],0,{2}{B}{B}{B},Mythic
+Disfigure,['Instant'],0,{B},Uncommon
+Dread Presence,['Creature'],0,{3}{B},Rare
+Duress,['Sorcery'],0,{B},Common
+Embodiment of Agonies,['Creature'],0,{1}{B}{B},Rare
+Epicure of Blood,['Creature'],0,{4}{B},Common
+Fathom Fleet Cutthroat,['Creature'],0,{3}{B},Common
+Feral Abomination,['Creature'],0,{5}{B},Common
+Gorging Vulture,['Creature'],0,{2}{B},Common
+Gravedigger,['Creature'],0,{3}{B},Uncommon
+Gruesome Scourger,['Creature'],0,{3}{B}{B},Uncommon
+Knight of the Ebon Legion,['Creature'],0,{B},Rare
+Legion's End,['Sorcery'],0,{1}{B},Rare
+Leyline of the Void,['Enchantment'],0,{2}{B}{B},Rare
+Mind Rot,['Sorcery'],0,{2}{B},Common
+Murder,['Instant'],0,{1}{B}{B},Common
+Noxious Grasp,['Instant'],0,{1}{B},Uncommon
+Rotting Regisaur,['Creature'],0,{2}{B},Rare
+Sanitarium Skeleton,['Creature'],0,{B},Common
+Scheming Symmetry,['Sorcery'],0,{B},Rare
+Sorcerer of the Fang,['Creature'],0,{1}{B},Common
+"Sorin, Imperious Bloodlord",['Planeswalker'],0,{2}{B},Mythic
+Soul Salvage,['Sorcery'],0,{2}{B},Common
+Thought Distortion,['Sorcery'],0,{4}{B}{B},Uncommon
+Undead Servant,['Creature'],0,{3}{B},Common
+Unholy Indenture,['Enchantment'],0,{2}{B},Common
+Vampire of the Dire Moon,['Creature'],0,{B},Uncommon
+Vengeful Warchief,['Creature'],0,{4}{B},Uncommon
+"Vilis, Broker of Blood",['Creature'],0,{5}{B}{B}{B},Rare
+Yarok's Fenlurker,['Creature'],0,{B}{B},Uncommon
+Act of Treason,['Sorcery'],0,{2}{R},Common
+Cavalier of Flame,['Creature'],0,{2}{R}{R}{R},Mythic
+"Chandra, Acolyte of Flame",['Planeswalker'],0,{1}{R}{R},Rare
+"Chandra, Awakened Inferno",['Planeswalker'],0,{4}{R}{R},Mythic
+"Chandra, Novice Pyromancer",['Planeswalker'],0,{3}{R},Uncommon
+Chandra's Embercat,['Creature'],0,{1}{R},Common
+Chandra's Outrage,['Instant'],0,{2}{R}{R},Common
+Chandra's Regulator,['Artifact'],0,{1}{R},Rare
+Chandra's Spitfire,['Creature'],0,{2}{R},Uncommon
+Daggersail Aeronaut,['Creature'],0,{3}{R},Common
+Destructive Digger,['Creature'],0,{2}{R},Common
+Dragon Mage,['Creature'],0,{5}{R}{R},Uncommon
+"Drakuseth, Maw of Flames",['Creature'],0,{4}{R}{R}{R},Rare
+Ember Hauler,['Creature'],0,{R}{R},Uncommon
+Fire Elemental,['Creature'],0,{3}{R}{R},Common
+Flame Sweep,['Instant'],0,{2}{R},Uncommon
+Fry,['Instant'],0,{1}{R},Uncommon
+Glint-Horn Buccaneer,['Creature'],0,{1}{R}{R},Rare
+Goblin Bird-Grabber,['Creature'],0,{1}{R},Common
+Goblin Ringleader,['Creature'],0,{3}{R},Uncommon
+Goblin Smuggler,['Creature'],0,{2}{R},Common
+Infuriate,['Instant'],0,{R},Common
+Keldon Raider,['Creature'],0,{2}{R}{R},Common
+Lavakin Brawler,['Creature'],0,{3}{R},Common
+Leyline of Combustion,['Enchantment'],0,{2}{R}{R},Rare
+Maniacal Rage,['Enchantment'],0,{1}{R},Common
+Marauding Raptor,['Creature'],0,{1}{R},Rare
+Mask of Immolation,['Artifact'],0,{1}{R},Uncommon
+Pack Mastiff,['Creature'],0,{1}{R},Common
+Rapacious Dragon,['Creature'],0,{4}{R},Uncommon
+Reckless Air Strike,['Sorcery'],0,{R},Common
+Reduce to Ashes,['Sorcery'],0,{4}{R},Common
+Repeated Reverberation,['Instant'],0,{2}{R}{R},Rare
+Ripscale Predator,['Creature'],0,{4}{R}{R},Common
+Scampering Scorcher,['Creature'],0,{3}{R},Uncommon
+Scorch Spitter,['Creature'],0,{R},Common
+Shock,['Instant'],0,{R},Common
+Tectonic Rift,['Sorcery'],0,{3}{R},Common
+Thunderkin Awakener,['Creature'],0,{1}{R},Rare
+Uncaged Fury,['Instant'],0,{2}{R},Uncommon
+Unchained Berserker,['Creature'],0,{1}{R},Uncommon
+Barkhide Troll,['Creature'],0,{G}{G},Uncommon
+Brightwood Tracker,['Creature'],0,{3}{G},Common
+Cavalier of Thorns,['Creature'],0,{2}{G}{G}{G},Mythic
+Centaur Courser,['Creature'],0,{2}{G},Common
+Elvish Reclaimer,['Creature'],0,{G},Rare
+Feral Invocation,['Enchantment'],0,{2}{G},Common
+Ferocious Pup,['Creature'],0,{2}{G},Common
+"Gargos, Vicious Watcher",['Creature'],0,{3}{G}{G}{G},Rare
+Gift of Paradise,['Enchantment'],0,{2}{G},Common
+Greenwood Sentinel,['Creature'],0,{1}{G},Common
+Growth Cycle,['Instant'],0,{1}{G},Common
+Healer of the Glade,['Creature'],0,{G},Common
+Howling Giant,['Creature'],0,{5}{G}{G},Uncommon
+Leafkin Druid,['Creature'],0,{1}{G},Common
+Leyline of Abundance,['Enchantment'],0,{2}{G}{G},Rare
+Loaming Shaman,['Creature'],0,{2}{G},Uncommon
+Mammoth Spider,['Creature'],0,{4}{G},Common
+Might of the Masses,['Instant'],0,{G},Uncommon
+Natural End,['Instant'],0,{2}{G},Common
+Netcaster Spider,['Creature'],0,{2}{G},Common
+Nightpack Ambusher,['Creature'],0,{2}{G}{G},Rare
+Overcome,['Sorcery'],0,{3}{G}{G},Uncommon
+Overgrowth Elemental,['Creature'],0,{2}{G},Uncommon
+Plummet,['Instant'],0,{1}{G},Common
+Pulse of Murasa,['Instant'],0,{2}{G},Uncommon
+Rabid Bite,['Sorcery'],0,{1}{G},Common
+Season of Growth,['Enchantment'],0,{1}{G},Uncommon
+Sedge Scorpion,['Creature'],0,{G},Common
+Shared Summons,['Instant'],0,{3}{G}{G},Rare
+Shifting Ceratops,['Creature'],0,{2}{G}{G},Rare
+Silverback Shaman,['Creature'],0,{3}{G}{G},Common
+Thicket Crasher,['Creature'],0,{3}{G},Common
+Thrashing Brontodon,['Creature'],0,{1}{G}{G},Uncommon
+Veil of Summer,['Instant'],0,{G},Uncommon
+"Vivien, Arkbow Ranger",['Planeswalker'],0,{1}{G}{G}{G},Mythic
+Voracious Hydra,['Creature'],0,{X}{G}{G},Rare
+Vorstclaw,['Creature'],0,{4}{G}{G},Common
+Wakeroot Elemental,['Creature'],0,{4}{G}{G},Rare
+Wolfkin Bond,['Enchantment'],0,{4}{G},Common
+Wolfrider's Saddle,['Artifact'],0,{3}{G},Uncommon
+Woodland Champion,['Creature'],0,{1}{G},Uncommon
+Corpse Knight,['Creature'],0,{W}{B},Uncommon
+Corpse Knight,['Creature'],0,{W}{B},Uncommon
+Creeping Trailblazer,['Creature'],0,{R}{G},Uncommon
+Empyrean Eagle,['Creature'],0,{1}{W}{U},Uncommon
+Ironroot Warlord,['Creature'],0,{1}{G}{W},Uncommon
+"Kaalia, Zenith Seeker",['Creature'],0,{R}{W}{B},Mythic
+"Kethis, the Hidden Hand",['Creature'],0,{W}{B}{G},Mythic
+"Kykar, Wind's Fury",['Creature'],0,{1}{U}{R}{W},Mythic
+Lightning Stormkin,['Creature'],0,{U}{R},Uncommon
+Moldervine Reclamation,['Enchantment'],0,{3}{B}{G},Uncommon
+Ogre Siegebreaker,['Creature'],0,{2}{B}{R},Uncommon
+"Omnath, Locus of the Roil",['Creature'],0,{1}{G}{U}{R},Mythic
+Risen Reef,['Creature'],0,{1}{G}{U},Uncommon
+Skyknight Vanguard,['Creature'],0,{R}{W},Uncommon
+Tomebound Lich,['Creature'],0,{1}{U}{B},Uncommon
+"Yarok, the Desecrated",['Creature'],0,{2}{B}{G}{U},Mythic
+Anvilwrought Raptor,"['Artifact', 'Creature']",0,{4},Common
+Bag of Holding,['Artifact'],0,{1},Rare
+Colossus Hammer,['Artifact'],0,{1},Uncommon
+Diamond Knight,"['Artifact', 'Creature']",0,{3},Uncommon
+Diviner's Lockbox,['Artifact'],0,{4},Uncommon
+"Golos, Tireless Pilgrim","['Artifact', 'Creature']",0,{5},Rare
+Grafdigger's Cage,['Artifact'],0,{1},Rare
+Heart-Piercer Bow,['Artifact'],0,{2},Common
+Icon of Ancestry,['Artifact'],0,{3},Rare
+Manifold Key,['Artifact'],0,{1},Uncommon
+Marauder's Axe,['Artifact'],0,{2},Common
+Meteor Golem,"['Artifact', 'Creature']",0,{7},Uncommon
+Mystic Forge,['Artifact'],0,{4},Rare
+Pattern Matcher,"['Artifact', 'Creature']",0,{4},Uncommon
+Prismite,"['Artifact', 'Creature']",0,{2},Common
+Retributive Wand,['Artifact'],0,{3},Uncommon
+Salvager of Ruin,"['Artifact', 'Creature']",0,{3},Uncommon
+Scuttlemutt,"['Artifact', 'Creature']",0,{3},Uncommon
+Steel Overseer,"['Artifact', 'Creature']",0,{2},Rare
+Stone Golem,"['Artifact', 'Creature']",0,{5},Common
+Vial of Dragonfire,['Artifact'],0,{2},Common
+Bloodfell Caves,['Land'],0,,Common
+Blossoming Sands,['Land'],0,,Common
+Cryptic Caves,['Land'],0,,Uncommon
+Dismal Backwater,['Land'],0,,Common
+Evolving Wilds,['Land'],0,,Common
+Field of the Dead,['Land'],0,,Rare
+Jungle Hollow,['Land'],0,,Common
+Lotus Field,['Land'],0,,Rare
+Rugged Highlands,['Land'],0,,Common
+Scoured Barrens,['Land'],0,,Common
+Swiftwater Cliffs,['Land'],0,,Common
+Temple of Epiphany,['Land'],0,,Rare
+Temple of Malady,['Land'],0,,Rare
+Temple of Mystery,['Land'],0,,Rare
+Temple of Silence,['Land'],0,,Rare
+Temple of Triumph,['Land'],0,,Rare
+Thornwood Falls,['Land'],0,,Common
+Tranquil Cove,['Land'],0,,Common
+Wind-Scarred Crag,['Land'],0,,Common
+Plains,['Land'],0,,Common
+Plains,['Land'],0,,Common
+Plains,['Land'],0,,Common
+Plains,['Land'],0,,Common
+Island,['Land'],0,,Common
+Island,['Land'],0,,Common
+Island,['Land'],0,,Common
+Island,['Land'],0,,Common
+Swamp,['Land'],0,,Common
+Swamp,['Land'],0,,Common
+Swamp,['Land'],0,,Common
+Swamp,['Land'],0,,Common
+Mountain,['Land'],0,,Common
+Mountain,['Land'],0,,Common
+Mountain,['Land'],0,,Common
+Mountain,['Land'],0,,Common
+Forest,['Land'],0,,Common
+Forest,['Land'],0,,Common
+Forest,['Land'],0,,Common
+Forest,['Land'],0,,Common
+"Rienne, Angel of Rebirth",['Creature'],0,{2}{R}{G}{W},Mythic
+"Ajani, Inspiring Leader",['Planeswalker'],0,{4}{W}{W},Mythic
+Goldmane Griffin,['Creature'],0,{3}{W}{W},Rare
+Savannah Sage,['Creature'],0,{1}{W},Common
+Twinblade Paladin,['Creature'],0,{3}{W},Uncommon
+"Mu Yanling, Celestial Wind",['Planeswalker'],0,{4}{U}{U},Mythic
+Celestial Messenger,['Creature'],0,{2}{U}{U},Common
+Waterkin Shaman,['Creature'],0,{1}{U},Uncommon
+Yanling's Harbinger,['Creature'],0,{3}{U}{U},Rare
+"Sorin, Vampire Lord",['Planeswalker'],0,{4}{B}{B},Mythic
+Savage Gorger,['Creature'],0,{1}{B}{B},Common
+Sorin's Guide,['Creature'],0,{3}{B}{B},Rare
+Thirsting Bloodlord,['Creature'],0,{2}{B}{B},Uncommon
+"Chandra, Flame's Fury",['Planeswalker'],0,{4}{R}{R},Mythic
+Chandra's Flame Wave,['Sorcery'],0,{3}{R}{R},Rare
+Pyroclastic Elemental,['Creature'],0,{3}{R}{R},Uncommon
+Wildfire Elemental,['Creature'],0,{2}{R}{R},Common
+"Vivien, Nature's Avenger",['Planeswalker'],0,{4}{G}{G},Mythic
+Ethereal Elk,['Creature'],0,{3}{G}{G},Rare
+Gnarlback Rhino,['Creature'],0,{2}{G}{G},Uncommon
+Vivien's Crocodile,['Creature'],0,{2}{G},Common
+Angelic Guardian,['Creature'],0,{4}{W}{W},Rare
+Bastion Enforcer,['Creature'],0,{2}{W},Common
+Concordia Pegasus,['Creature'],0,{1}{W},Common
+Haazda Officer,['Creature'],0,{2}{W},Common
+Impassioned Orator,['Creature'],0,{1}{W},Common
+Imperial Outrider,['Creature'],0,{3}{W},Common
+Ironclad Krovod,['Creature'],0,{3}{W},Common
+Prowling Caracal,['Creature'],0,{1}{W},Common
+Serra's Guardian,['Creature'],0,{4}{W}{W},Rare
+Show of Valor,['Instant'],0,{1}{W},Common
+Siege Mastodon,['Creature'],0,{4}{W},Common
+Take Vengeance,['Sorcery'],0,{1}{W},Common
+Trusted Pegasus,['Creature'],0,{2}{W},Common
+Coral Merfolk,['Creature'],0,{1}{U},Common
+Phantom Warrior,['Creature'],0,{1}{U}{U},Common
+Riddlemaster Sphinx,['Creature'],0,{4}{U}{U},Rare
+Snapping Drake,['Creature'],0,{3}{U},Common
+Bartizan Bats,['Creature'],0,{3}{B},Common
+Bogstomper,['Creature'],0,{4}{B}{B},Common
+Dark Remedy,['Instant'],0,{1}{B},Common
+Disentomb,['Sorcery'],0,{B},Common
+Gravewaker,['Creature'],0,{4}{B}{B},Rare
+Skeleton Archer,['Creature'],0,{3}{B},Common
+Sorin's Thirst,['Instant'],0,{B}{B},Common
+Vampire Opportunist,['Creature'],0,{1}{B},Common
+Walking Corpse,['Creature'],0,{1}{B},Common
+Engulfing Eruption,['Sorcery'],0,{2}{R}{R},Common
+Fearless Halberdier,['Creature'],0,{2}{R},Common
+Goblin Assailant,['Creature'],0,{1}{R},Common
+Hostile Minotaur,['Creature'],0,{3}{R},Common
+Immortal Phoenix,['Creature'],0,{4}{R}{R},Rare
+Nimble Birdsticker,['Creature'],0,{2}{R},Common
+Rubblebelt Recluse,['Creature'],0,{4}{R},Common
+Shivan Dragon,['Creature'],0,{4}{R}{R},Rare
+Volcanic Dragon,['Creature'],0,{4}{R}{R},Uncommon
+Aggressive Mammoth,['Creature'],0,{3}{G}{G}{G},Rare
+Bristling Boar,['Creature'],0,{3}{G},Common
+Canopy Spider,['Creature'],0,{1}{G},Common
+Frilled Sandwalla,['Creature'],0,{G},Common
+Oakenform,['Enchantment'],0,{2}{G},Common
+Prized Unicorn,['Creature'],0,{3}{G},Common
+Titanic Growth,['Instant'],0,{1}{G},Common
+Woodland Mystic,['Creature'],0,{1}{G},Common
