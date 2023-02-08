@@ -1,0 +1,14 @@
+{
+  "card-title": "New White Boi Name",
+  "mana-cost": "{w}",
+  "designer": "Gigadrax",
+  "super-type": "",
+  "type":"Creature",
+  "sub-type":"Concept",
+  "rarity":"C",
+  "rules-text":"Can't be blocked by Humans.",
+  "flavor-text":"Fuck Humans!",
+  "power":1,
+  "toughness":1,
+  "artist":""
+}

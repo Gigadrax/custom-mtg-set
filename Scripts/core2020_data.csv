@@ -9,7 +9,7 @@ Battalion Foot Soldier,['Creature'],0,{2}{W},Common
 Bishop of Wings,['Creature'],0,{W}{W},Rare
 Brought Back,['Instant'],0,{W}{W},Rare
 Cavalier of Dawn,['Creature'],0,{2}{W}{W}{W},Mythic
-Dawning Angel,['Creature'],0,{4}{W},Common
+New White Boi Name,['Creature'],{W},Common
 Daybreak Chaplain,['Creature'],0,{1}{W},Common
 Devout Decree,['Sorcery'],0,{1}{W},Uncommon
 Disenchant,['Instant'],0,{1}{W},Common
